@@ -1,16 +1,25 @@
-## Hi there 👋
+Hi 👋, I'm Vaishnavi!
 
-<!--
-**vaiish01/Vaiish01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Full Stack Developer | AI/ML Enthusiast
+🌱 Currently learning Spring Boot, React & Cloud
+🚀 Building real-world web applications
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+Java • Spring Boot • React.js • JavaScript
+HTML • CSS • Node.js • MongoDB • SQL
+Git • GitHub • REST APIs • Postman
+
+
+
+## 📚 Currently Learning
+
+- Spring Boot & Hibernate
+- Advanced Java
+- SQL & Database Design
+- AWS & Cloud
+- AI/ML Integration
+
+---
+
