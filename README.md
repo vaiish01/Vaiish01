@@ -8,8 +8,8 @@ Hi 👋, I'm Vaishnavi!
 ## 🛠️ Tech Stack
 
 Java • Spring Boot • React.js • JavaScript
-HTML • CSS • Node.js • MongoDB • SQL
-Git • GitHub • REST APIs • Postman
+ • HTML • CSS • Node.js • MongoDB • SQL
+ • Git • GitHub • REST APIs • Postman
 
 
 
