@@ -1,7 +1,6 @@
 Hi 👋, I'm Vaishnavi!
 
 💻 Java Full Stack Developer | AI/ML Enthusiast
-🌱 Currently learning Spring Boot, React & Cloud
 🚀 Building real-world web applications
 
 
